@@ -1,0 +1,98 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+.logo{
+  width: 150px;
+}
+.flex-div{
+  display: flex;
+  align-items: center;
+}
+.edutext{
+  font-size: 70%;
+  display: flex;
+  left: 68px;
+  margin-top: -2px;
+  position: relative;
+}
+
+body{
+  background-color: rgb(245, 204, 211);
+}
+.aclogo{
+  width: 25px;
+  border-radius: 50%;
+  position: relative;
+  right: -3%;
+  margin-top: -0.1%;
+}
+.nav-right{
+  font-family: Arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    right: -820px;
+    margin-top: -18%;
+    color: rgb(194, 5, 5);
+}
+.login{
+  padding: 4%;
+}
+.head{
+  right: -45px;
+  margin-top: 8%;
+  font-family: 'Poppins', sans-serif;;
+  position: absolute;
+  align-items: center;
+}
+.table {
+  text-align: left;
+  position: absolute;
+  border-collapse: collapse; 
+  background-color: #f6f6f6;
+  font-size: 12px;
+  right: -550px;
+  margin-top: 36%;
+  align-items: center;
+}
+table {
+  text-align: left;
+  position: relative;
+  border-collapse: collapse; 
+  background-color: #ffffff;
+  font-size: 12px;
+}
+
+td, th {
+  border: 1px solid #999;
+  padding: 20px;
+  
+}
+
+th {
+  background: rgb(179, 35, 35);
+  color: white;
+  border-radius: 0;
+  position: sticky;
+  top: 0;
+  padding: 10px;
+}
+
+.primary{
+  background-color: #030303
+}
+
+tfoot > tr  {
+  background: black;
+  color: white;
+}
+
+.first{
+  color: white;
+  background-color: red;
+}
+.white{
+  background-color: white;
+}
+.L{
+  right: -4.4%;
+  position: relative;
+  border: 0;
+}
