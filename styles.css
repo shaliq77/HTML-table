@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
 
 .logo{
   width: 150px;
@@ -19,24 +19,25 @@ body{
   background-color: rgb(245, 204, 211);
 }
 .aclogo{
-  width: 25px;
+  width: 35px;
   border-radius: 50%;
   position: relative;
-  right: -3%;
+  right: -0.2%;
   margin-top: -0.1%;
 }
 .nav-right{
   font-family: Arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 25px;
     position: relative;
-    right: -820px;
-    margin-top: -18%;
+    right: -1500px;
+    margin-top: -4%;
     color: rgb(194, 5, 5);
 }
 .login{
-  padding: 4%;
+  padding: 0.5%;
 }
 .head{
-  right: -45px;
+  right: 800px;
   margin-top: 8%;
   font-family: 'Poppins', sans-serif;;
   position: absolute;
@@ -48,8 +49,8 @@ body{
   border-collapse: collapse; 
   background-color: #f6f6f6;
   font-size: 12px;
-  right: -550px;
-  margin-top: 36%;
+  right: 450px;
+  margin-top: 15%;
   align-items: center;
 }
 table {
